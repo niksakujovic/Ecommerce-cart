@@ -50,10 +50,6 @@ npm run test
 
 ```
 
-### Copyright and license
-
-The MIT License (MIT). Please see License File for more information.
-
 <br/>
 <br/>
 
